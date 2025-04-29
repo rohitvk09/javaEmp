@@ -18,7 +18,7 @@ public class Employee {
         System.out.println("Employee Name: " + name);
         System.out.println("Employee Salary: " + salary);
         System.out.println("Your adress is: " + adress);
-
+        System.out.println("master branch");
     }
 
     public static void main(String[] args) {
